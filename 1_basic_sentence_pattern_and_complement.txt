@@ -1,0 +1,25 @@
+S+V (subject + intransitive verb)
+S+V+O (subject + transitive verb + object)
+S+V+C (subject + transitive verb + complement)
+S+V+O+O (subject + transitive + object + object)
+S+V+O+C (subject + transitive verb + object + complement)
+
+主语 + 不及物动词： Jone Smith died in World War Two.
+主语 + 及物动词 + 宾语: John Smith killed three enemy soldiers.
+主语 + “是” + 补语： Jone Smith was a soldier.
+主语 + 动词 + 宾语 + 宾语: John's gave him a dog.
+主语 + 动词 + 宾语 + ["是"] + 补语: The meat made the dog friendly.
+
+翻译成是的词语由以下:
+look
+seem
+appear
+sound
+feel
+taste
+trun
+prove
+become
+make
+
+补语是在“是”后面的词，通常为名词与形容词。
