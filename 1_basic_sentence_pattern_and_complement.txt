@@ -4,6 +4,8 @@ S+V+C (subject + transitive verb + complement)
 S+V+O+O (subject + transitive + object + object)
 S+V+O+C (subject + transitive verb + object + complement)
 
+主要理解第3，5两种句型就可
+
 主语 + 不及物动词： Jone Smith died in World War Two.
 主语 + 及物动词 + 宾语: John Smith killed three enemy soldiers.
 主语 + “是” + 补语： Jone Smith was a soldier.
